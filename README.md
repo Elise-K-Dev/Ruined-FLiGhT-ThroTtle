@@ -1,10 +1,10 @@
-# Throtle DCS vJoy Controller
+# Ruined Flight Throttle
 
 <img width="3024" height="4032" alt="KakaoTalk_20260502_031447513" src="https://github.com/user-attachments/assets/70a5641b-a3db-403d-9345-926b888f79fd" />
 
-
-Arduino Mega based controller bridge for DCS. The Mega reads the physical
-controls over serial, and `scripts/mega_to_vjoy.py` maps them to vJoy.
+A suspiciously functional, hastily assembled, half-ruined throttle box for DCS.
+It should probably not work this well, but the Arduino Mega reads the physical
+controls over serial and `scripts/mega_to_vjoy.py` shoves them into vJoy anyway.
 
 ## Current Hardware Wiring
 
