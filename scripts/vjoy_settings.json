@@ -1,0 +1,10 @@
+{
+  "x_axis_slew_rate_per_second": 344.5528455284553,
+  "y_axis_slew_rate_per_second": 344.5528455284553,
+  "encoder_pulse_seconds": 0.025,
+  "encoder_cooldown_seconds": 0.03,
+  "encoder_opposite_lockout_seconds": 0.06,
+  "serial_port": "COM3",
+  "baud": 19200,
+  "vjoy_device": 1
+}
